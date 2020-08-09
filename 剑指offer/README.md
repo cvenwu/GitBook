@@ -38,7 +38,7 @@ TODO:
 | | [ 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof) | 2020-07-18 | | [剪绳子](剪绳子/code.md) |
 | | [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof) | | | |
 | | [ 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof) | 2020-07-15 | | [二进制中1的个数](二进制中1的个数/code.md) |
-| | [ 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof) | | | |
+| | [ 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof) | 2020-08-07 | | [数值的整数次方](code.html) |
 | | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof) | | | |
 | | [ 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof) | | | [删除链表的节点](删除链表的节点/code.md) |
 | | [ 正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof) | | | |
@@ -53,11 +53,11 @@ TODO:
 | | [ 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof) | | | |
 | | [ 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof) | | | [包含min函数的栈](包含min函数的栈/code.md) |
 | | [ 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof) | 2020-07-19 | | [栈的压入、弹出序列](栈的压入、弹出序列/code.md) |
-| | [ 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof) | | | |
-| | [ 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof) | | | |
-| | [ 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof) | | | |
-| | [ 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof) | | | |
-| | [ 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof) | | | |
+| | [ 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof) | 2020-08-06 | | [从上到下打印二叉树](从上到下打印二叉树/code.md) |
+| | [ 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof) | 2020-08-06 | | [从上到下打印二叉树II](从上到下打印二叉树II/code.md) |
+| | [ 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof) | 2020-08-06 | | [从上到下打印二叉树III](从上到下打印二叉树III/code.md) |
+|  | 重点：提交6次错5次[ 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof) | 2020-08-07 | | [二叉搜索树的后序遍历序列](二叉搜索树的后序遍历序列/code.md) |
+| | [ 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof) | 2020-08-07 | | [二叉树中和为某一值的路径](二叉树中和为某一值的路径/code.md) |
 | | [ 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof) | | | |
 | | [ 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof) | | | |
 | | [ 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof) | | | |
@@ -65,7 +65,7 @@ TODO:
 | | [ 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof) | | | |
 | | [ 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof) | | | |
 | | [ 数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof) | | | |
-| | [ 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | | | |
+| | [ 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | | | [连续子数组的最大和](连续子数组的最大和/code.md) |
 | | [ 1～n整数中1出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof) | | | |
 | | [ 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof) | | | |
 | | [ 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof) | | | |
@@ -73,20 +73,21 @@ TODO:
 | | [ 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof) | | | [礼物的最大价值](礼物的最大价值/code.md) |
 | | [ 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof) | | | |
 | | [ 丑数](https://leetcode-cn.com/problems/chou-shu-lcof) | | | |
-| | [ 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof) | | | |
+| | [ 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof) | 2020-08-08 | | [第一个只出现一次的字符](第一个只出现一次的字符/code.md) |
 | | [ 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof) | | | |
 | | [两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof) | 2020-07-18 | | [两个链表的第一个公共节点](两个链表的第一个公共节点/code.md) |
 | | [ 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof) | | | |
 | | [ 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof) | | | |
-| | [ 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof) | | | |
+| | [数组中数值和下标相等的元素]() | 2020-08-04 | | [数组中数值和下标相等的元素](数组中数值和下标相等的元素/code.md) |
+| | [ 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof) | | | [二叉搜索树的第k大节点](二叉搜索树的第k大节点/code.md) |
 | | [ 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof) | | | |
 | | [ 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof) | 2020-07-30 | | [平衡二叉树](平衡二叉树/code.md) |
 | | [ 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof) | 2020-07-18 | | [数组中数字出现的次数](数组中数字出现的次数/code.md) |
 | | [ 数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof) | 2020-07-17 | | [数组中数字出现的次数II](数组中数字出现的次数II/code.md) |
 | | [和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof) | 2020-07-27 | | [和为s的两个数字](和为s的两个数字/code.md) |
 | | [和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof) | 2020-08-01 | | [和为s的连续正数序列](和为s的连续正数序列/code.md) |
-| | [ 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof) | 2020-08-01 | | |
-| | [ 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof) | 2020-08-01 | | |
+| | [ 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof) | 2020-08-01 | | [翻转单词顺序](翻转单词顺序/code.md) |
+| | [ 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof) | 2020-08-01 | | [坐旋转字符串](坐旋转字符串/code.md) |
 | | [ 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof) | 2020-08-01 | | [滑动窗口的最大值](滑动窗口的最大值/code.md) |
 | | [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof) | 2020-08-01 | | [队列的最大值](队列的最大值/code.md) |
 | | [n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof) | | | |
