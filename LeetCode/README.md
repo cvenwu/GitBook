@@ -1,6 +1,7 @@
 # LeetCode题解
 
 
+This is the summary of my book.
 
 | 题号 |                           题目名称                           | 解决时间   | 疑问 | 笔记                                                         |
 | ---- | :----------------------------------------------------------: | ---------- | ---- | ------------------------------------------------------------ |
@@ -16,7 +17,7 @@
 |      | [141 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 2020-08-18 |      | [141 环形链表](141环形链表/code.md)                          |
 |      | [342. 4的幂](https://leetcode-cn.com/problems/power-of-four/) | 2020-08-18   |      | [342.4的幂](342.4的幂/code.md)                                                         |
 |      | [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | 2020-08-18 |      | [461.汉明距离](461.汉明距离/code.md)                                                 |
-|      | [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | 2020-08-19 |      | [1342.将数字变成 0 的操作次数](1342.将数字变成 0 的操作次数/code.md)             |
+|      | [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | 2020-08-19 |      | [1342.将数字变成 0 的操作次数](1342将数字变成0的操作次数/code.md)             |
 |      | [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 2020-08-19 |      | [106. 从中序与后序遍历序列构造二叉树](106. 从中序与后序遍历序列构造二叉树/code.md)         |
 |      | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | 2020-08-19 |      | [101. 对称二叉树](101. 对称二叉树/code.md)                             |
 |      | [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 2020-08-19 |      | [105. 从前序与中序遍历序列构造二叉树](105. 从前序与中序遍历序列构造二叉树/code.md)    |
@@ -55,7 +56,14 @@
 |      | [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/) | 2020-08-28 |      | [9. 回文数](9. 回文数/code.md)                                     |
 |      | [589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | 2020-08-28 |      | [589.N叉树的前序遍历](589.N叉树的前序遍历/code.md)                    |
 |      | [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | 2020-08-28  |      | [2.两数相加](2.两数相加/code.md)                              |
-|      |                            [ ]()                             | 2020-08-2  |      | []()                                                         |
+|  | [867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | 2020-09-01 |      | [867.转置矩阵](867.转置矩阵/code.md)                                 |
+|      | [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 2020-09-02 |      | [235.二叉搜索树的最近公共祖先](235.二叉搜索树的最近公共祖先/code.md)               |
+|      | [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/) | 2020-09-02 |      | [566.重塑矩阵](566.重塑矩阵/code.md)                             |
+|      | [693. 交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/) | 2020-09-02 |      | [693.交替位二进制数](693.交替位二进制数/code.md)                          |
+|      |                            [ ]()                             | 2020-09-2 |      | []()                                                         |
+|      |                            [ ]()                             | 2020-09-2 |      | []()                                                         |
+
+
 
 
 由于编译器的优化，当方法调用出现函数末尾时，没有其它操作要执行，编译器在编译代码时，就不会开辟新的栈空间，而是直接覆盖当前栈执行。根据此思路使用尾递归进行求解，当递归到n==0时，就可得到对应的解。[参考](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/wei-di-gui-by-creammangopie/)
