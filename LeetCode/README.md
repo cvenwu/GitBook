@@ -63,22 +63,38 @@ This is the summary of my book.
 |      | [476. 数字的补数](https://leetcode-cn.com/problems/number-complement/) | 2020-09-03 |      | [476.数字的补数](476.数字的补数/code.md)                               |
 |      | [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) | 2020-09-03 |      | [169.多数元素](169.多数元素/code.md)                                 |
 |      | [268. 缺失数字](https://leetcode-cn.com/problems/missing-number/) | 2020-09-03 |      | [268. 缺失数字](268. 缺失数字/code.md)                               |
-|      |                            [ ]()                             | 2020-09-03 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-03 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-03 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-03 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-03 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-03 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-03 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-03 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-03 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-03 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-03 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-03 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-03 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-03 |      | []()                                                         |
+|      | [1009. 十进制整数的反码](https://leetcode-cn.com/problems/complement-of-base-10-integer/) | 2020-09-03 |      | [1009.十进制整数的反码](1009.十进制整数的反码/code.md)                       |
+|      | [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | 2020-09-03 |      | [203.移除链表元素](203.移除链表元素/code.md)                  |
+|      | [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | 2020-09-03 |      | [234.回文链表](234.回文链表/code.md)                                |
+|      | [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 2020-09-03 |      | [19.删除链表的倒数第N个节点](19.删除链表的倒数第N个节点/code.md)                  |
+|      | [260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | 2020-09-03 |      | [260.只出现一次的数字III](260.只出现一次的数字III/code.md)                  |
+|      | [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 2020-09-03 |      | [160.相交链表](160.相交链表/code.md)                          |
+|      | [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 2020-09-04 |      | [190.颠倒二进制位](190.颠倒二进制位/code.md)                           |
+|      | [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/) | 2020-09-04 |      | [389.找不同](389.找不同/code.md)                               |
+|      | [477. 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/) | 2020-09-04 |      | [477.汉明距离总和](477.汉明距离总和/code.md)                             |
+|      | [201. 数字范围按位与](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/) | 2020-09-04 |      | [201.数字范围按位与](201.数字范围按位与/code.md)                          |
+|      | [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 2020-09-04 |      | [24.两两交换链表中的节点](24.两两交换链表中的节点/code.md)                       |
+|      | [1281. 整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | 2020-09-04 |      | [1281.整数的各位积和之差](1281.整数的各位积和之差/code.md)                     |
+|      | [1295. 统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/) | 2020-09-04 |      | [1295.统计位数为偶数的数字](1295.统计位数为偶数的数字/code.md)                   |
+|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
+|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
+|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
+|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
+|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
+|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
+|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
+|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
+|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
+|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
+|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
+|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
+|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
+|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
 
 
+
+
+链表中一个很重要的点就是，当删除链表中的某个节点，我们可能会觉得删除头节点或者删除尾节点，此时我们可以通过建立一个哨兵节点来解决这些问题。
 
 
 
