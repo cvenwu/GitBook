@@ -76,20 +76,45 @@ This is the summary of my book.
 |      | [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 2020-09-04 |      | [24.两两交换链表中的节点](24.两两交换链表中的节点/code.md)                       |
 |      | [1281. 整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | 2020-09-04 |      | [1281.整数的各位积和之差](1281.整数的各位积和之差/code.md)                     |
 |      | [1295. 统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/) | 2020-09-04 |      | [1295.统计位数为偶数的数字](1295.统计位数为偶数的数字/code.md)                   |
-|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
-|      |                            [ ]()                             | 2020-09-05 |      | []()                                                         |
+|      | [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 2020-09-05 |      | [28.实现strStr](28.实现strStr/code.md)                           |
+|      | [925. 长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | 2020-09-05 |      | [925.长按键入](925.长按键入/code.md)                                 |
+|      | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | 2020-09-05 |      | [125.验证回文串](125.验证回文串/code.md)                               |
+|      | [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | 2020-09-05 |      | [350.两个数组的交集II](350.两个数组的交集II/code.md)               |
+|      | [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/) | 2020-09-05 |      | [290.单词规律](290.单词规律/code.md)                                |
+|      | [219. 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | 2020-09-05 |      | [219.存在重复元素II](219.存在重复元素II/code.md)                 |
+|      | [205. 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | 2020-09-05 |      | [205.同构字符串](205.同构字符串/code.md)                              |
+|      | [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | 2020-09-05 |      | [208.实现Trie(前缀树)](208.实现Trie前缀树/code.md)                  |
+|      | [171. Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | 2020-09-05 |      | [171.表列序号](171.表列序号/code.md)                                |
+|      | [263. 丑数](https://leetcode-cn.com/problems/ugly-number/) | 2020-09-05 |      | [263.丑数](263.丑数/code.md)                                    |
+|      | [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | 2020-09-06 |      | [146.LRU缓存机制](146.LRU缓存机制/code.md)                        |
+|      | [46. 全排列](https://leetcode-cn.com/problems/permutations/) | 2020-09-06 |      | [46.全排列](46.全排列/code.md)                                     |
+|      | [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 2020-09-07 |      | [58.最后一个单词的长度](58.最后一个单词的长度/code.md)                        |
+|      | [434. 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | 2020-09-07 |      | [434.字符串中的单词数](434.字符串中的单词数/code.md)                         |
+|      | [917. 仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/) | 2020-09-07 |      | [917.仅仅反转字母](917.仅仅反转字母/code.md)                             |
+|      | [107. 二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | 2020-09-08 |      | [107.二叉树的层次遍历II](107.二叉树的层次遍历II/code.md)                    |
+|      | [515. 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/) | 2020-09-08 |      | [515.在每个树行中找最大值](515.在每个树行中找最大值/code.md)                 |
+|      | [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)                       | 2020-09-08 |      | [113.路径总和II](113.路径总和II/code.md)                             |
+|      | [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | 2020-09-08 |      | [257.二叉树的所有路径](257.二叉树的所有路径/code.md)                        |
+|      | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 2020-09-09 |      | [236.二叉树的最近公共祖先](236.二叉树的最近公共祖先/code.md)                    |
+|      | [258. 各位相加](https://leetcode-cn.com/problems/add-digits/) | 2020-09-10 |      | [258.各位相加](258.各位相加/code.md)                                 |
+|      | [129. 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | 2020-09-10 |      | [129.求根到叶子节点数字之和](129.求根到叶子节点数字之和/code.md)            |
+|      | [1022. 从根到叶的二进制数之和](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/) | 2020-09-10 |      | [1022.从根到叶的二进制数之和](1022.从根到叶的二进制数之和/code.md)                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
+|      | []() | 2020-09-10 |      | []()                 |
 
 
 
@@ -180,4 +205,19 @@ def backtrack(路径, 选择列表):
 回溯解题思路：
 
 ![JAzj6v](https://gitee.com/yirufeng/images/raw/master/uPic/JAzj6v.png)
+
+
+
+
+
+## 字符串
+
+### 去掉尾部的空格
+
+```go
+	i := len(s)-1
+	for i >= 0 && s[i] == ' ' {
+		i -= 1
+	}
+```
 
