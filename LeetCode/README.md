@@ -99,10 +99,10 @@ This is the summary of my book.
 |      | [258. 各位相加](https://leetcode-cn.com/problems/add-digits/) | 2020-09-10 |      | [258.各位相加](258.各位相加/code.md)                                 |
 |      | [129. 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | 2020-09-10 |      | [129.求根到叶子节点数字之和](129.求根到叶子节点数字之和/code.md)            |
 |      | [1022. 从根到叶的二进制数之和](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/) | 2020-09-10 |      | [1022.从根到叶的二进制数之和](1022.从根到叶的二进制数之和/code.md)                 |
-|      | []() | 2020-09-10 |      | []()                 |
-|      | []() | 2020-09-10 |      | []()                 |
-|      | []() | 2020-09-10 |      | []()                 |
-|      | []() | 2020-09-10 |      | []()                 |
+|      | [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | 2020-09-11 |      | [118.杨辉三角](118.杨辉三角/code.md) |
+|      | [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | 2020-09-11 |      | [119.杨辉三角II](119.杨辉三角II/code.md) |
+|      | [633. 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) | 2020-09-11 |      | [633.平方根之和](633.平方根之和/code.md) |
+|      | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) | 2020-09-11 |      | [79.单词搜索](79.单词搜索/code.md) |
 |      | []() | 2020-09-10 |      | []()                 |
 |      | []() | 2020-09-10 |      | []()                 |
 |      | []() | 2020-09-10 |      | []()                 |

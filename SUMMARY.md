@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [LeetCode](LeetCode/README.md)
+    * [交换数字](LeetCode/交换数字/code.md)
 * [程序员面试金典](程序员面试金典/README.md)
 * [剑指offer](剑指offer/README.md)
     * [总结书上的笔记](剑指offer/总结.md)

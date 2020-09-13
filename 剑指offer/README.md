@@ -33,8 +33,8 @@ TODO:
 | | [ 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof) | 2020-07-15 | | [斐波那契数列](斐波那契数列/code.md) |
 | | [青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof) | 2020-07-15 | | [青蛙跳台阶问题](青蛙跳台阶问题/code.md) |
 | | [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof) | | | |
-| | [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof) | | | |
-| | [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof) | | | |
+| | [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof) | 2020-09-12 | | [矩阵中的路径](矩阵中的路径/code.md) |
+| | [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof) | 2020-09-12 | | [机器人的运动范围](机器人的运动范围/code.md) |
 | | [ 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof) | 2020-07-18 | | [剪绳子](剪绳子/code.md) |
 | | [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof) | | | |
 | | [ 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof) | 2020-07-15 | | [二进制中1的个数](二进制中1的个数/code.md) |
@@ -47,7 +47,7 @@ TODO:
 | | [ 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof) | 2020-07-18 | | [链表中倒数第k个节点](链表中倒数第k个节点/code.md) |
 | | [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof) | | | |
 | | [合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof) | | | |
-| | [ 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof) | | | |
+| | [ 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof) | 2020-09-12 | | [树的子结构](树的子结构/code.md) |
 | | [二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof) | 2020-07-26 | | [二叉树的镜像](二叉树的镜像/code.md) |
 | | [ 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof) | | | |
 | | [ 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof) | | | |
@@ -62,8 +62,8 @@ TODO:
 | | [ 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof) | | | |
 | | [ 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof) | | | |
 | | [ 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof) | | | |
-| | [ 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof) | | | |
-| | [ 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof) | | | |
+| | [ 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof) | 2020-09-08 | | [数组中出现次数超过一半的数字](数组中出现次数超过一半的数字/code.md) |
+| | [ 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof) | 2020-09-12 | | [最小的k个数](最小的k个数/code.md) |
 | | [ 数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof) | | | |
 | | [ 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | | | [连续子数组的最大和](连续子数组的最大和/code.md) |
 | | [ 1～n整数中1出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof) | | | |
@@ -90,14 +90,14 @@ TODO:
 | | [ 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof) | 2020-08-01 | | [坐旋转字符串](坐旋转字符串/code.md) |
 | | [ 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof) | 2020-08-01 | | [滑动窗口的最大值](滑动窗口的最大值/code.md) |
 | | [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof) | 2020-08-01 | | [队列的最大值](队列的最大值/code.md) |
-| | [n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof) | | | |
-| | [扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof) | | | |
+| | [n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof) | 2020-09-1 | | |
+| | [扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof) | 2020-09-13 | | [扑克牌中的顺子](扑克牌中的顺子/code.md) |
 | | [ 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof) | | | |
 | | [股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof) | 2020-07-17 | | [股票的最大利润](股票的最大利润/code.md) |
 | | [ 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof) | | | |
 | | [不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof) | 2020-07-18 | | [不用加减乘除做加法](不用加减乘除做加法/code.md) |
 | | [ 构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof) | | | |
-| | [ 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof) | | | |
-| | [ 二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof) | | | |
+| | [ 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof) | 2020-09-08 | | [二叉搜索树的最近公共祖先](二叉搜索树的最近公共祖先) |
+| | [ 二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof) | 2020-09-07 | | [二叉树的最近公共祖先](二叉树的最近公共祖先/code.md) |
 | |  | | | |
 
