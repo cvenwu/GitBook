@@ -50,7 +50,7 @@ TODO:
 | | [ 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof) | 2020-09-12 | | [树的子结构](树的子结构/code.md) |
 | | [二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof) | 2020-07-26 | | [二叉树的镜像](二叉树的镜像/code.md) |
 | | [ 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof) | | | |
-| | [ 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof) | | | |
+| | [ 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof) | 2020-09-16 | | [顺时针打印矩阵](顺时针打印矩阵/code.md) |
 | | [ 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof) | | | [包含min函数的栈](包含min函数的栈/code.md) |
 | | [ 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof) | 2020-07-19 | | [栈的压入、弹出序列](栈的压入、弹出序列/code.md) |
 | | [ 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof) | 2020-08-06 | | [从上到下打印二叉树](从上到下打印二叉树/code.md) |

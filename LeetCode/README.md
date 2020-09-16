@@ -102,9 +102,9 @@ This is the summary of my book.
 |      | [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | 2020-09-11 |      | [118.杨辉三角](118.杨辉三角/code.md) |
 |      | [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | 2020-09-11 |      | [119.杨辉三角II](119.杨辉三角II/code.md) |
 |      | [633. 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) | 2020-09-11 |      | [633.平方根之和](633.平方根之和/code.md) |
-|      | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) | 2020-09-11 |      | [79.单词搜索](79.单词搜索/code.md) |
-|      | []() | 2020-09-10 |      | []()                 |
-|      | []() | 2020-09-10 |      | []()                 |
+|      | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) | 2020-09-12 |      | [79.单词搜索](79.单词搜索/code.md) |
+|      | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | 2020-09-13 |      | [62.不同路径](62.不同路径/code.md) |
+|      | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | 2020-09-13 |      | [63.不同路径](63.不同路径/code.md) |
 |      | []() | 2020-09-10 |      | []()                 |
 |      | []() | 2020-09-10 |      | []()                 |
 |      | []() | 2020-09-10 |      | []()                 |
