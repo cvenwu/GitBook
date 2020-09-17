@@ -81,3 +81,78 @@ func max(num, num2 int) int {
 }
 ```
 
+
+
+## 方法三：参考小浩算法
+
+`dp[i]`表示偷盗至第i个房屋时，已经累计获取的最大偷窃金额
+
+后来自己也参考思路改进了
+
+```go
+func rob(nums []int) int {
+
+	if len(nums) <= 0 {
+		return 0
+	}
+
+	if len(nums) == 1 {
+		return nums[0]
+	}
+
+	//记得更新数组中第2个元素的值
+	if len(nums) == 2 {
+		return max(nums[0], nums[1])
+	}
+	nums[1] = max(nums[0], nums[1])
+	//状态转移方程
+	for i := 2; i < len(nums); i++ {
+		nums[i] = max(nums[i-1], nums[i-2]+nums[i])
+	}
+
+	//返回最大值
+	return nums[len(nums)-1]
+}
+
+func max(num, num2 int) int {
+	if num > num2 {
+		return num
+	}
+
+	return num2
+}
+
+```
+
+
+
+自己上次提交的错误代码：
+
+错误原因：之前自己提交的这一行代码给nums[1]赋值只会在数组长度为2的时候进行赋值
+
+```go
+func rob(nums []int) int {
+
+	if len(nums) <= 0 {
+		return 0
+	}
+
+	if len(nums) == 1 {
+		return nums[0]
+	}
+
+	//记得更新数组中第2个元素的值
+	if len(nums) == 2 {
+		nums[1] = max(nums[0], nums[1])
+	}
+
+	//状态转移方程
+	for i := 2; i < len(nums); i++ {
+		nums[i] = max(nums[i-1], nums[i-2]+nums[i])
+	}
+
+	//返回最大值
+	return nums[len(nums)-1]
+}
+```
+
