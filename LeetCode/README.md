@@ -106,7 +106,7 @@ This is the summary of my book.
 |      | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | 2020-09-13 |      | [62.不同路径](62.不同路径/code.md) |
 |      | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | 2020-09-13 |      | [63.不同路径](63.不同路径/code.md) |
 |      | [905. 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) | 2020-09-27 |      | [905. 按奇偶排序数组](905. 按奇偶排序数组/code.md) |
-|      | [66. 加一](https://leetcode-cn.com/problems/plus-one/) | 2020-09-27 |      | [66. 加一](66. 加一/code.md) |
+|      | [66. 加一](https://leetcode-cn.com/problems/plus-one/) | 2020-09-27 |      | [66. 加一](66加一/code.md) |
 |      | []() | 2020-09-10 |      | []()                 |
 |      | []() | 2020-09-10 |      | []()                 |
 |      | []() | 2020-09-10 |      | []()                 |
