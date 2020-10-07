@@ -107,15 +107,43 @@ This is the summary of my book.
 |      | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | 2020-09-13 |      | [63.不同路径](63.不同路径/code.md) |
 |      | [905. 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) | 2020-09-27 |      | [905. 按奇偶排序数组](905. 按奇偶排序数组/code.md) |
 |      | [66. 加一](https://leetcode-cn.com/problems/plus-one/) | 2020-09-27 |      | [66. 加一](66加一/code.md) |
-|      | []() | 2020-09-10 |      | []()                 |
-|      | []() | 2020-09-10 |      | []()                 |
-|      | []() | 2020-09-10 |      | []()                 |
-|      | []() | 2020-09-10 |      | []()                 |
-|      | []() | 2020-09-10 |      | []()                 |
-|      | []() | 2020-09-10 |      | []()                 |
-|      | []() | 2020-09-10 |      | []()                 |
-|      | []() | 2020-09-10 |      | []()                 |
-
+|      | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | 2020-09-28 |      | [283.移动零](283.移动零/code.md) |
+|      | [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | 2020-09-28 |      | [557.反转字符串中的单词III](557.反转字符串中的单词II/code.md) |
+|      | [771. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | 2020-09-29 |      | [771.宝石与石头](771.宝石与石头/code.md)                     |
+|      | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | 2020-10-02 |      | [199.二叉树的右视图](199.二叉树的右视图/code.md) |
+|      | [1118. 一月有多少天](https://leetcode-cn.com/problems/number-of-days-in-a-month/) | 2020-10-03 |      | [1118. 一月有多少天](1118. 一月有多少天/code.md) |
+|      | [LCP 17. 速算机器人](https://leetcode-cn.com/problems/nGK0Fy/) | 2020-10-03 |      | [LCP 17. 速算机器人](LCP 17. 速算机器人/code.md) |
+|      | [1154. 一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year/) | 2020-10-03 |      | [1154. 一年中的第几天](1154. 一年中的第几天/code.md) |
+|      | [383. 赎金信](https://leetcode-cn.com/problems/ransom-note/) | 2020-10-03 |      | [383. 赎金信](383. 赎金信/code.md)                 |
+|      | [709. 转换成小写字母](https://leetcode-cn.com/problems/to-lzzwer-case/) | 2020-10-03 |      | [709. 转换成小写字母](709. 转换成小写字母/code.md)                 |
+|      | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/) | 2020-10-05 |      | [48. 旋转图像](48. 旋转图像/code.md)                 |
+|      | [15. 三数之和](https://leetcode-cn.com/problems/3sum/) | 2020-10-05 |      | [15. 三数之和](15. 三数之和/code.md)                 |
+|      | [18. 四数之和](https://leetcode-cn.com/problems/4sum/) | 2020-10-02 |      | [18. 四数之和](18. 四数之和/code.md)                 |
+|      | [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | 2020-10-02 |      | [74. 搜索二维矩阵](74. 搜索二维矩阵/code.md)                 |
+|      | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | 2020-10-02 |      | [739. 每日温度](739. 每日温度/code.md)                 |
+|      | [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 2020-10-02 |      | [22. 括号生成](22. 括号生成/code.md)                 |
+|      | [303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | 2020-10-02 |      | [303. 区域和检索 - 数组不可变](303. 区域和检索 - 数组不可变/code.md)                 |
+|      | [1265. 逆序打印不可变链表](https://leetcode-cn.com/problems/print-immutable-linked-list-in-reverse/) | 2020-10-02 |      | [1265. 逆序打印不可变链表](1265. 逆序打印不可变链表/code.md)                 |
+|      | [1441. 用栈操作构建数组](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/) | 2020-10-07 |      | [1441. 用栈操作构建数组](1441. 用栈操作构建数组/code.md)                 |
+|      | [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | 2020-10-07 |      | [1047. 删除字符串中的所有相邻重复项](1047. 删除字符串中的所有相邻重复项/code.md)                 |
+|      | [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/) | 2020-10-07 |      | [682. 棒球比赛](682. 棒球比赛/code.md)                 |
+|      | [946. 验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/) | 2020-10-07 |      | [946. 验证栈序列](946. 验证栈序列/code.md)                 |
+|      | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | 2020-10-07 |      | [150. 逆波兰表达式求值](150. 逆波兰表达式求值/code.md)                 |
+|      | [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) | 2020-10-07 |      | [496. 下一个更大元素 I](496. 下一个更大元素 I/code.md) |
+|      | []() | 2020-10-07 |      | []()                 |
+|      | []() | 2020-10-07 |      | []()                 |
+|      | []() | 2020-10-07 |      | []()                 |
+|      | []() | 2020-10-07 |      | []()                 |
+|      | []() | 2020-10-07 |      | []()                 |
+|      | []() | 2020-10-07 |      | []()                 |
+|      | []() | 2020-10-07 |      | []()                 |
+|      | []() | 2020-10-07 |      | []()                 |
+|      | []() | 2020-10-07 |      | []()                 |
+|      | []() | 2020-10-07 |      | []()                 |
+|      | []() | 2020-10-07 |      | []()                 |
+|      | []() | 2020-10-07 |      | []()                 |
+|      | []() | 2020-10-07 |      | []()                 |
+|      | []() | 2020-10-07 |      | []()                 |
 
 
 
