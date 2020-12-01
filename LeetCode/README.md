@@ -1,4 +1,4 @@
-# LeetCode题解
+#  	LeetCode题解
 
 
 This is the summary of my book.
@@ -109,6 +109,7 @@ This is the summary of my book.
 |      | [66. 加一](https://leetcode-cn.com/problems/plus-one/) | 2020-09-27 |      | [66. 加一](66加一/code.md) |
 |      | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | 2020-09-28 |      | [283.移动零](283.移动零/code.md) |
 |      | [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | 2020-09-28 |      | [557.反转字符串中的单词III](557.反转字符串中的单词II/code.md) |
+|      | [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | 2020-09-28 |      | [75. 颜色分类](75.颜色分类/code.md) |
 |      | [771. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | 2020-09-29 |      | [771.宝石与石头](771.宝石与石头/code.md)                     |
 |      | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | 2020-10-02 |      | [199.二叉树的右视图](199.二叉树的右视图/code.md) |
 |      | [1118. 一月有多少天](https://leetcode-cn.com/problems/number-of-days-in-a-month/) | 2020-10-03 |      | [1118. 一月有多少天](1118. 一月有多少天/code.md) |
@@ -130,17 +131,20 @@ This is the summary of my book.
 |      | [946. 验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/) | 2020-10-07 |      | [946. 验证栈序列](946. 验证栈序列/code.md)                 |
 |      | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | 2020-10-07 |      | [150. 逆波兰表达式求值](150. 逆波兰表达式求值/code.md)                 |
 |      | [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) | 2020-10-07 |      | [496. 下一个更大元素 I](496. 下一个更大元素 I/code.md) |
-|      | []() | 2020-10-07 |      | []()                 |
-|      | []() | 2020-10-07 |      | []()                 |
-|      | []() | 2020-10-07 |      | []()                 |
-|      | []() | 2020-10-07 |      | []()                 |
-|      | []() | 2020-10-07 |      | []()                 |
-|      | []() | 2020-10-07 |      | []()                 |
-|      | []() | 2020-10-07 |      | []()                 |
-|      | []() | 2020-10-07 |      | []()                 |
-|      | []() | 2020-10-07 |      | []()                 |
-|      | []() | 2020-10-07 |      | []()                 |
-|      | []() | 2020-10-07 |      | []()                 |
+|      | [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | 2020-10-09 |      | [15.乘积最大子数组](15.乘积最大子数组/code.md) |
+|      | [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | 2020-10-09 |      | [17. 电话号码的字母组合](17. 电话号码的字母组合/code.md) |
+|      | [538. 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | 2020-10-09 |      | [538. 把二叉搜索树转换为累加树](538. 把二叉搜索树转换为累加树/code.md) |
+|      | [760. 找出变位映射](https://leetcode-cn.com/problems/find-anagram-mappings/) | 2020-10-09 |      | [760.找出变位映射](760.找出变位映射/code.md) |
+|      | [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | 2020-10-10 |      | [11.盛最多水的容器](11.盛最多水的容器/code.md) |
+|      | [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | 2020-10-10 |      | [560.和为K的子数组](560.和为K的子数组/code.md) |
+|      | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | 2020-10-10 |      | [448.找到所有数组中消失的数字](448.找到所有数组中消失的数字/code.md) |
+|      | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 2020-10-13 |      | [215. 数组中的第K个最大元素](215. 数组中的第K个最大元素/code.md) |
+|      | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | 2020-11-13 |      | [200. 岛屿数量](200.岛屿数量/code.md) |
+|      | [976. 三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | 2020-11-28 |      | [976. 三角形的最大周长](976.三角形的最大周长/code.md) |
+|      | [1025. 除数博弈](https://leetcode-cn.com/problems/divisor-game/) | 2020-11-29 |      | [1025.除数博弈](1025.除数博弈/code.md) |
+|      | [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) | 2020-11-30 |      | [27.移除元素](27.移除元素/code.md) |
+|      | [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | 2020-11-30 |      | [6.Z字形变换](6.Z字形变换/code.md) |
+|      | [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | 2020-11-30 |      | [92.反转链表II](92.反转链表II/code.md) |
 |      | []() | 2020-10-07 |      | []()                 |
 |      | []() | 2020-10-07 |      | []()                 |
 |      | []() | 2020-10-07 |      | []()                 |

@@ -17,6 +17,7 @@
     },
     "plugins": [
         "-sharing",
+        "theme-comscore",
         "splitter",
         "expandable-chapters-small",
         "anchors",
@@ -31,27 +32,38 @@
         "copy-code-button",
         "chapter-fold",
         "insert-logo",
-        "pageview-count"
+        "pageview-count",
+        "auto-scroll-table"
     ],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/sivanWu0222"
         },
         "github-buttons": {
-            "buttons": [{
-                "user": "sivanWu0222",
-                "repo": "GitBook",
-                "type": "star",
-                "size": "small",
-                "count": true
+            "buttons": [
+                {
+                    "user": "sivanWu0222",
+                    "repo": "GitBook",
+                    "type": "star",
+                    "size": "small",
+                    "count": true
+                },
+                {
+                    "user": "sivanWu0222",
+                    "repo": "GitBook",
+                    "type": "follow",
+                    "size": "small",
+                    "count": true
                 }
             ]
         },
         "donate": {
-            "alipay": "./source/images/donate.png",
-            "title": "",
-            "button": "赞赏",
-            "alipayText": " "
+            "wechat": "https://cdn.jsdelivr.net/gh/sivanWu0222/ImageHosting@master/uPic/jiUBuh.png",
+            "alipay": "https://cdn.jsdelivr.net/gh/sivanWu0222/ImageHosting@master/uPic/Voennf.png",
+            "title": "请作者喝一杯茶",
+            "button": "捐赠",
+            "alipayText": "支付宝捐赠",
+            "wechatText": "微信捐赠"
         },
         "sharing": {
             "douban": false,
@@ -72,30 +84,40 @@
             "weibo": false,
             "whatsapp": false,
             "all": [
-                "google", "facebook", "weibo", "twitter",
-                "qq", "qzone", "linkedin", "pocket"
+                "google",
+                "facebook",
+                "weibo",
+                "twitter",
+                "qq",
+                "qzone",
+                "linkedin",
+                "pocket"
             ]
         },
         "anchor-navigation-ex": {
             "showLevel": false
         },
-        "favicon":{
-            "shortcut": "./source/images/favicon.jpg",
-            "bookmark": "./source/images/favicon.jpg",
-            "appleTouch": "./source/images/apple-touch-icon.jpg",
+        "favicon": {
+            "shortcut": "https://cdn.jsdelivr.net/gh/sivanWu0222/ImageHosting@master/uPic/favicon.ico",
+            "bookmark": "https://cdn.jsdelivr.net/gh/sivanWu0222/ImageHosting@master/uPic/083845ob5w95wffq9kr6ub.png.icon.png",
+            "appleTouch": "https://cdn.jsdelivr.net/gh/sivanWu0222/ImageHosting@master/uPic/favicon.ico",
             "appleTouchMore": {
                 "120x120": "./source/images/apple-touch-icon.jpg",
                 "180x180": "./source/images/apple-touch-icon.jpg"
             }
         },
         "tbfed-pagefooter": {
-            "copyright":"版权所有，盗版必究",
+            "copyright": "版权所有，盗版必究",
             "modify_label": "Last Modified On：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "insert-logo": {
-            "url": "./source/images/favicon.jpg",
+            "url": "https://cdn.jsdelivr.net/gh/sivanWu0222/ImageHosting@master/uPic/083845ob5w95wffq9kr6ub.png.icon.png",
             "style": "background: none; max-height: 30px; min-height: 30px"
-          }
+        }
+    },
+    "pdf": {
+        "paperSize": "a4",
+        "fontSize": 30
     }
 }
