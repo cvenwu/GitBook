@@ -146,8 +146,16 @@ This is the summary of my book.
 |      | [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | 2020-11-30 |      | [6.Z字形变换](6.Z字形变换/code.md) |
 |      | [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | 2020-11-30 |      | [92.反转链表II](92.反转链表II/code.md) |
 |      | [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | 2020-12-05 |      | [222.完全二叉树的节点个数](222.完全二叉树的节点个数/code.md) |
-|      | []() | 2020-10-07 |      | []()                 |
-|      | []() | 2020-10-07 |      | []()                 |
+|      | [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | 2020-12-09 |      | [240.搜索二维矩阵 II](240.搜索二维矩阵II/code.md) |
+|      | [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | 2020-12-09 |      | [153.寻找旋转排序数组中的最小值](153.寻找旋转排序数组中的最小值/code.md) |
+|      | [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 2020-12-09 |      | [154.寻找旋转排序数组中的最小值II](154.寻找旋转排序数组中的最小值II/code.md) |
+|      | [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | 2020-12-09 |      | [33.搜索旋转排序数组](33.搜索旋转排序数组/code.md) |
+|      | [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | 2020-12-09 |      | [81.搜索旋转排序数组II](81.搜索旋转排序数组II/code.md) |
+|      | [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | 2020-12-09 |      | [264.丑数II](264.丑数II/code.md) |
+|      | []() | 2020-12-09 |      | []()                 |
+|      | []() | 2020-12-09 |      | []()                 |
+|      | []() | 2020-12-09 |      | []()                 |
+|      | []() | 2020-12-09 |      | []()                 |
 
 
 
