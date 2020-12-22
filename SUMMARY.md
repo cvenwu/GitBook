@@ -135,6 +135,7 @@
     * [205.同构字符串](LeetCode/205.同构字符串/code.md)
     * [208.实现Trie前缀树](LeetCode/208.实现Trie前缀树/code.md)
     * [219.存在重复元素II](LeetCode/219.存在重复元素II/code.md)
+    * [222.完全二叉树的节点个数](LeetCode/222.完全二叉树的节点个数/code.md)
     * [225.用队列实现栈](LeetCode/225用队列实现栈/code.md)
     * [226.翻转二叉树](LeetCode/226翻转二叉树/code.md)
     * [234.回文链表](LeetCode/234.回文链表/code.md)

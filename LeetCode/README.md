@@ -152,8 +152,8 @@ This is the summary of my book.
 |      | [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | 2020-12-09 |      | [33.搜索旋转排序数组](33.搜索旋转排序数组/code.md) |
 |      | [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | 2020-12-09 |      | [81.搜索旋转排序数组II](81.搜索旋转排序数组II/code.md) |
 |      | [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | 2020-12-09 |      | [264.丑数II](264.丑数II/code.md) |
-|      | []() | 2020-12-09 |      | []()                 |
-|      | []() | 2020-12-09 |      | []()                 |
+|      | [204.计数质数](https://leetcode-cn.com/problems/count-primes/) | 2020-12-09 |      | [204.计数质数](204.计数质数、code.md)                 |
+|      | [228.汇总区间](https://leetcode-cn.com/problems/summary-ranges/) | 2020-12-15 |      | [228.汇总区间](228.汇总区间/code.md)                 |
 |      | []() | 2020-12-09 |      | []()                 |
 |      | []() | 2020-12-09 |      | []()                 |
 
