@@ -87,7 +87,7 @@
       "resolved": "https://registry.npmjs.org/entities/-/entities-1.1.2.tgz",
       "version": "1.1.2"
     },
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gitbook-plugin-anchor-navigation-ex": {
       "integrity": "sha1-Gxkz8ApxiOPAMppFBxOFeQQ6Qnc=",
       "requires": {
